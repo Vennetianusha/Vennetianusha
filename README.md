@@ -18,11 +18,17 @@ I am a passionate and versatile software developer with strong problem-solving s
 
 ## 🛠️ Tech Stack
 
-* **Languages:** Java, Python, JavaScript, C
-* **Frontend:** HTML, CSS, Bootstrap, React Native
-* **Backend & APIs:** REST APIs, Node.js, Express.js
-* **AI Tools:** OpenAI API, LangChain
-* **Tools:** Git, GitHub
+**Languages:**
+C++, Java, Python, JavaScript
+
+**Frontend:**
+HTML, CSS, Bootstrap, React Native
+
+**Backend & APIs:**
+REST APIs, Node.js, Express.js, PHP, Postman, XAMPP
+
+**Tools:**
+Git, GitHub
 
 ---
 
@@ -48,9 +54,11 @@ I am a passionate and versatile software developer with strong problem-solving s
 
 ## 🏆 Highlights & Achievements
 
-* ✅ Oracle AI Foundations Certified
-* ✅ Campus Ambassador @ DevTown
-* ✅ Hands-on experience with AI Chatbots & Web Apps
+✅ Oracle AI Foundations Certified
+✅ Postman API Fundamentals Student Expert Certified
+✅ Campus Ambassador @ DevTown
+✅ Hands-on experience with AI Chatbots & Web Apps
+
 
 ---
 
