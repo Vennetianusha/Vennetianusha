@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Anusha Pavani Venneti 👋
 
-<!--
-**Vennetianusha/Vennetianusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | 💻 Software Developer | 🚀 AI & Full Stack Enthusiast
 
-Here are some ideas to get you started:
+📍 Rajahmundry, Andhra Pradesh
+📧 [vennetianushapavani2005@gmail.com](mailto:vennetianushapavani2005@gmail.com)
+🔗 LinkedIn | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+I am a passionate and versatile software developer with strong problem-solving skills and a solid foundation in **Data Structures and Algorithms**. I have hands-on experience in **Web Development, AI Chatbots, and Full Stack Development**. I am deeply interested in **Machine Learning, Generative AI, and building real-world projects**.
+
+🎯 **Career Goal:** To become a highly skilled **Software Developer & Full Stack Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Java, Python, JavaScript, C
+* **Frontend:** HTML, CSS, Bootstrap, React Native
+* **Backend & APIs:** REST APIs, Node.js, Express.js
+* **AI Tools:** OpenAI API, LangChain
+* **Tools:** Git, GitHub
+
+---
+
+## 🚀 Projects
+
+* ✅ **Smart Task Tracker (Full Stack Project)** – Complete full stack web application for managing daily tasks
+* 🍔 **FoodMunch Website** – Responsive food delivery website
+* 🤖 **AI Chatbot** – Built a smart chatbot using Generative AI
+* ▶️ **YouTube Clone** – Clean and responsive UI clone
+
+*(More exciting projects coming soon…)*
+
+---
+
+## 📚 Currently Focusing On
+
+* Data Structures & Algorithms
+* Backend & Full Stack Development
+* AI & Machine Learning
+* Building Real-World Projects
+
+---
+
+## 🏆 Highlights & Achievements
+
+* ✅ Oracle AI Foundations Certified
+* ✅ Campus Ambassador @ DevTown
+* ✅ Hands-on experience with AI Chatbots & Web Apps
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: [vennetianushapavani2005@gmail.com](mailto:vennetianushapavani2005@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/anusha-pavani-venneti](https://linkedin.com/in/anusha-pavani-venneti)
+* 🐙 GitHub: [https://github.com/Vennetianusha](https://github.com/Vennetianusha)
+
+---
+
+⭐ *“Learn daily. Build consistently. Grow confidently.”*
+🚀 Always excited to collaborate and build something impactful!
