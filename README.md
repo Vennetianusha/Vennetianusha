@@ -50,14 +50,17 @@ Git, GitHub
 * AI & Machine Learning
 * Building Real-World Projects
 
----
+---## 🏆 Highlights & Achievements
 
-## 🏆 Highlights & Achievements
+**Certifications:**
+Oracle AI Foundations Certified
+Postman API Fundamentals Student Expert Certified
 
-✅ Oracle AI Foundations Certified
-✅ Postman API Fundamentals Student Expert Certified
-✅ Campus Ambassador @ DevTown
-✅ Hands-on experience with AI Chatbots & Web Apps
+**Leadership:**
+Campus Ambassador @ DevTown
+
+**Experience:**
+Hands-on experience with AI Chatbots, Web Applications, and Websites
 
 
 
