@@ -54,8 +54,8 @@ Git, GitHub
 ## 🏆 Highlights & Achievements
 
 **Certifications:**
-Oracle AI Foundations Certified
-Postman API Fundamentals Student Expert Certified
+Oracle AI Foundations Certified ,
+ Postman API Fundamentals Student Expert Certified
 
 **Leadership:**
 Campus Ambassador @ DevTown
