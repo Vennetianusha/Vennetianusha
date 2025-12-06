@@ -50,7 +50,8 @@ Git, GitHub
 * AI & Machine Learning
 * Building Real-World Projects
 
----## 🏆 Highlights & Achievements
+---
+## 🏆 Highlights & Achievements
 
 **Certifications:**
 Oracle AI Foundations Certified
