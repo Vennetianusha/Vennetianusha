@@ -2,9 +2,9 @@
 
 🎓 B.Tech CSE Student | 💻 Software Developer | 🚀 AI & Full Stack Enthusiast
 
-📍 Rajahmundry, Andhra Pradesh
-📧 [vennetianushapavani2005@gmail.com](mailto:vennetianushapavani2005@gmail.com)
-🔗 LinkedIn | GitHub
+📍 Rajahmundry, Andhra Pradesh  
+📧 vennetianushapavani2005@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/anusha-pavani-venneti) | [GitHub](https://github.com/Vennetianusha)
 
 ---
 
